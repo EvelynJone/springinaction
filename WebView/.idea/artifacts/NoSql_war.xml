@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="NoSql:war">
+    <output-path>$PROJECT_DIR$/NoSql/target</output-path>
+    <root id="archive" name="NoSql.war">
+      <element id="artifact" artifact-name="NoSql:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="caching:war">
+    <output-path>$PROJECT_DIR$/caching/target</output-path>
+    <root id="archive" name="caching.war">
+      <element id="artifact" artifact-name="caching:war exploded" />
+    </root>
+  </artifact>
+</component>

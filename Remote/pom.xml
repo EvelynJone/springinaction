@@ -8,6 +8,7 @@
   <modules>
     <module>spitter-api-content-negotiation</module>
     <module>spitter-api-message-converters</module>
+    <module>jms</module>
   </modules>
   <packaging>pom</packaging>
 

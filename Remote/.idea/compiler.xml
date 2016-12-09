@@ -22,11 +22,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
+        <module name="jms" />
         <module name="spitter-api-content-negotiation" />
         <module name="spitter-api-message-converters" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="jms" target="1.5" />
       <module name="Remote" target="1.5" />
       <module name="spitter-api-content-negotiation" target="1.5" />
       <module name="spitter-api-message-converters" target="1.5" />

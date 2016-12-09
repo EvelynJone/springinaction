@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spitter-api-message-converters:war">
+    <output-path>$PROJECT_DIR$/spitter-api-message-converters/target</output-path>
+    <root id="archive" name="spitter-api-message-converters.war">
+      <element id="artifact" artifact-name="spitter-api-message-converters:war exploded" />
+    </root>
+  </artifact>
+</component>

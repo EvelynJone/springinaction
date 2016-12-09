@@ -18,7 +18,10 @@ import javax.servlet.ServletRegistration.Dynamic;
  */
 public class MyServletInitializer implements WebApplicationInitializer {
     public void onStartup(ServletContext servletContext) throws ServletException {
+        Dynamic d = conta
         Dynamic myServlet = servletContext.addServlet("myServlet",MyServlet.class);
         myServlet.addMapping("/custom/**");
     }
+
+    MyServletInitializer.
 }

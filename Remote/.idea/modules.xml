@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Remote.iml" filepath="$PROJECT_DIR$/Remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spitter-api-content-negotiation/spitter-api-content-negotiation.iml" filepath="$PROJECT_DIR$/spitter-api-content-negotiation/spitter-api-content-negotiation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spitter-api-message-converters/spitter-api-message-converters.iml" filepath="$PROJECT_DIR$/spitter-api-message-converters/spitter-api-message-converters.iml" />
+    </modules>
+  </component>
+</project>

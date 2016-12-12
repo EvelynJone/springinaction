@@ -34,8 +34,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jdbc/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5648038">
-              <caret line="215" column="0" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.118906066">
+              <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
               <folding>
                 <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
                 <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
@@ -1107,7 +1107,7 @@
       <workItem from="1481102254192" duration="7189000" />
       <workItem from="1481160140796" duration="1209000" />
       <workItem from="1481183469994" duration="3746000" />
-      <workItem from="1481246508427" duration="14159000" />
+      <workItem from="1481246508427" duration="14160000" />
     </task>
     <servers />
   </component>
@@ -1144,11 +1144,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112025000" />
+    <option name="totallyTimeSpent" value="112026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1734,8 +1734,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jdbc/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5648038">
-          <caret line="215" column="0" selection-start-line="215" selection-start-column="0" selection-end-line="215" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.118906066">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
           <folding>
             <element signature="n#properties#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
